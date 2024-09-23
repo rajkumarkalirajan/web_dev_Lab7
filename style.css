@@ -52,10 +52,9 @@ body {
 	}
 	
 	img {
-		width:60px; 
-		height:auto;
-		border-radius: 50%;
-		overflow: hidden;
+		width: 60px; 
+		height: auto;
+	
 	}		
 	
 	.footer-text {
